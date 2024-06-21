@@ -9,3 +9,5 @@
 5. Added link to styles.css
 6. Downloaded images from airbnb mobile view
 7. Built searchbar
+8. Inserted pictures with text below
+9. 
